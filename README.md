@@ -268,3 +268,30 @@ You woke slowly to birdsong in the oaks and the steady, familiar hum of The Forg
 Cross-Reference & Repository Tags:
 #MADWorks #MotivationAndDirectionWorks #FourBookBoxSet #ToysBuildingToys #JadeAvenue #MountShasta #OakGroveDaydream #RaspberryPod #RPMSR #GalacticWelcome #GroundedOnEarth #TheArchitectsContingency #CrystalBell
 
+---
+title: "Book I, Act I (Chapter 1): Friction on the Divide"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-26"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [book-1, act-1, chapter-1, friction-on-the-divide, the-forge, jade-avenue, mount-shasta, luma, mad-mom, ezra, rowan, atlas, clyde]
+---
+
+Book I: Friction & The Gate
+Act I (Chapter 1): Friction on the Divide
+> "When the wind drops ten degrees in twenty minutes and the lines go quiet, don't fight the cold with brute force—read the friction, trust the mechanics you built with your own hands, and keep every soul warm."
+> — The Architect’s Contingency™, Book I, Act I (...)
+> 
+By late afternoon, the temperature along the Siskiyou-Shasta Divide fell hard enough to turn damp bark into glass. Across the valley to the south, the snow-crowned peak of Mount Shasta stood sharp and majestic against a slate-violet sky as the last sunlight slipped off its upper ridges.
+At the edge of the oak grove on the Jade Avenue site, The Forge held its warmth like a steady hearth. Out by the creek draw, the micro-hydro wheel kept turning through the chill, feeding low-voltage power into the shop while the wet-scrubber hood pulled woodsmoke from the central fire pit through a fine misting baffle—leaving the indoor air crisp, clean, and free of soot. Along the south timber wall, recirculated warmth and filtered water kept the living moringa and herb trays lush beneath their copper pyramids.
+Inside the main hall, Luma adjusted her aviator glasses and checked the copper–terracotta–charcoal water stage with unhurried precision. Her path-lighting hem glow cast a soft, low-glare pool across the floorboards around her boots as dusk deepened outside, while M.A.D.M.O.M.™ stood beside the center workbench with a warm mug in hand, running a quick somatic check on her own shoulders and breathing before smiling across the room.
+"Barometer just took a dive, and the outer relay went quiet three minutes ago," M.A.D.M.O.M.™ said evenly, tapping a knuckle against the timber table. "No outer grid, no signal—just us, our tools, and plenty of firewood. How are our bodies holding up before we button down the vents?"
+"Hands warm, lungs clear," Luma replied calmly, resting a brief, reassuring hand on Ezra's shoulder as she passed his bench. "No need to rush a single bolt."
+At the east bench, Ezra was leaning over a replacement TPU structural memory strip meant for the outer weather louver. Frustrated by the stiffening cold, he tried to press the flexible joint into its housing by sheer thumb strength—until the polymer bowed and slipped out of line.
+M.A.D.M.O.M.™ strolled over with an easy, grounded grin. "Easy there, Ezra. You're trying to win an arm-wrestling match against cold polymer. Shift your angle—warm the joint with your palm for ten seconds, seat the leading tab first, and let the M.A.D. Grips+™ insert take the load instead of your knuckles."
+Ezra let out a breath, laughed at himself, and flicked on his hands-free sleeve task light so a clean beam fell right across the slot without him needing to hold a flashlight. Turning the piece sideways, he seated the leading tab—and the strip clicked cleanly into place with zero strain. "Much better. First instinct was all push, no angle."
+Near the baffled side bay, the heavy timber swing-door nudged open on its own counterweight, and Clyde stepped in from the frosty yard—steam rising off his broad shoulders as the big Clydesdale shook loose sleet from his mane, sniffed the warm air near the moringa wall, and settled comfortably into his dry bedding entirely at his own will.
+"Smartest engineer on the property," Atlas murmured with a quiet smile from the north intake wall. Towering over the draft frame, Atlas used a simple wooden lever and clean leverage math to clear a crust of rime ice from the outer air louver—restoring balanced airflow without stressing a single hinge.
+Across the room at the archive table, Rowan closed the physical inventory ledger beside the offline Raspberry Pi node, double-checking that every local schematic and seed record was synced and stamped with the three-dot ellipsis (...).
+"Water's clean, air's scrubbed, Clyde's tucked in on his own schedule, and the louver's breathing," Rowan said, looking up as the wind howled outside the shutters.
+Luma looked around the warm hall at her three sons and M.A.D.M.O.M.™, her voice steady and full of quiet warmth. "Let the storm blow all night. Everything we need is right here in our hands—and in how we look out for each other (...)."
