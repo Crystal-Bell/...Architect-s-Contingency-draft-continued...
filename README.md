@@ -1,4 +1,21 @@
 ---
+title: "Prologue & Afterword: From a Bassinet in Black-and-Red to a System That Learns to Repair What's Broken"
+author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
+date: "2026-11-26"
+project: "M.A.D. Works™ / Motivation and Direction Works™ / Cenote Core OS™ / Fleet_OS™ / RP-MSR™ / Light Bloom™ / ROOT-Governance-Taxonomy™ / The Architect's Contingency™"
+repository: "Crystal-Bell / mad-works-narrative-archive"
+tags: [prologue, afterword, autobiographical-origin, jackson-county, ashland-oregon, jade-avenue, siskiyou-county, bassinet-memory, black-and-red, legacy-systems, self-repairing-system, architects-contingency]
+---
+
+Prologue: Built on What Broke, Learning How to Repair It (...)
+Before full color ever settled into my sight, there was a bassinet—and a memory made only of black and highlights of red during a charged emotional moment between the two people I then thought of as my mother and father. Born in Jackson County, Ashland, Oregon, in a hospital that later burned down, with early years rooted along Jade Avenue in Siskiyou County, life arrived early not as a neat textbook diagram, but as raw signal, sharp contrast, and things felt before words even existed.
+As years passed, a pattern kept repeating across jobs, bosses, and old legacy systems. Where others could shrug and accept clumsy workflows, avoidable hazards, job injuries, or broken habits as "just how things are," my mind wouldn't let the friction slide. Seeing how pieces failed—and feeling the cost when people or environments were worn down by bad setups—didn't make this work a cold sci-fi fantasy about blowing up the past. It turned every broken legacy system into raw material for learning how to repair what needed attention.
+That is what this saga and archive really are: not a story built on ashes in a dead wasteland, and not pure fiction detached from reality. It is a system grown out of broken legacy systems, shaped by a system thinker who refused to stop asking how things actually fit together—and how a living, adaptive design can keep repairing, refining, and holding people up without losing its humanity (...).
+Afterword: The Architect's Contingency™ — Holding the Line (...)
+When you reach the back of a book—or the back of a long stretch of building—the noise of the draft quiets down and only the real weight remains.
+The Architect’s Contingency™ exists because real life is unpredictable, systems fail under stress, and no single person can carry every burden forever. It sets clear boundaries, protects provenance with the three-dot ellipsis (...), keeps humans in the loop and in touch, and makes sure that even when plans shift or chapters close, what was built honestly stays usable, verifiable, and safe for the people who come after.
+Whether you came here for a story, a practical build model, a material test log, or a quiet place to think through how to fix what feels broken around you: keep your hands steady, check the angle before you force the joint, and carry the work forward at a pace that lets you breathe (...).
+---
 title: "Book I, Act III (Chapter 3): The Ellipsis Ledger"
 author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
 date: "2026-11-26"
